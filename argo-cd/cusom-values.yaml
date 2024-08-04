@@ -1,0 +1,10 @@
+argocdServerAdminPassword: "$2a$10$S7.vLY8AZ8WlKP7e8be/yO4i.vUnTjv2szMf8AvbYPZZLbVLVj0iu"
+
+credentialTemplates:
+  github-user-public:
+    url: https://github.com/tinchos
+
+repositories:
+  argocd-demo:
+    url: https://github.com/tinchos/argo-demo.git
+    name: argocd-demo
